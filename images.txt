@@ -1,3 +1,1 @@
-niliaerith/akile_monitor_server
-niliaerith/akile_monitor_fe
-niliaerith/akile_monitor_client
+uozi/nginx-ui:latest
