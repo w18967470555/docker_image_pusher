@@ -1,1 +1,1 @@
-arm64v8/alpine:latest
+nginx:stable-alpine
