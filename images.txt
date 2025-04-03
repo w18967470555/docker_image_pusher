@@ -1,1 +1,1 @@
-arm64v8/nginx:alpine
+arm64v8/alpine:latest
