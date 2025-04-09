@@ -1,1 +1,1 @@
-ghcr.io/ajnart/dcm
+registry:2
