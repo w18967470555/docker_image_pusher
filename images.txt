@@ -1,1 +1,1 @@
---platform linux/arm64 arm64v8/ubuntu:minimal
+--platform=linux/arm64 ubuntu:jammy
