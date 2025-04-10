@@ -1,1 +1,1 @@
-registry:2
+--platform linux/arm64 php:8.2-apache
