@@ -1,1 +1,1 @@
---platform linux/arm64 php:8.2-apache
+--platform linux/arm64 arm64v8/ubuntu:alpine-24.04
