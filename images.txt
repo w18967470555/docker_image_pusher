@@ -1,1 +1,1 @@
---platform=linux/arm64 ubuntu:jammy
+ubuntu:jammy
