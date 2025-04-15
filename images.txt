@@ -1,1 +1,2 @@
-chatbookai/ai-to-pptx:0.2
+elasticsearch:8.12
+kibana:8.12
