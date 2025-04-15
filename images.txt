@@ -1,1 +1,1 @@
-elasticsearch-head:8
+alexfrancoeur/docker-elasticsearch-head:latest
