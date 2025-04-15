@@ -1,1 +1,1 @@
-alexfrancoeur/docker-elasticsearch-head
+mobz/elasticsearch-head:5
